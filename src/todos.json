@@ -1,0 +1,22 @@
+{
+    "todos":[
+        {
+            "titulo":"Task1",
+            "responsable":"Juan",
+            "descripcion":"Lorem Ipsum",
+            "prioridad":"alta"
+        },
+        {
+            "titulo":"Task2",
+            "responsable":"Abiram",
+            "descripcion":"Lorem Ipsum",
+            "prioridad":"Media"
+        },
+        {
+            "titulo":"Task3",
+            "responsable":"Misael",
+            "descripcion":"Lorem Ipsum",
+            "prioridad":"baja"
+        }
+    ]
+}
