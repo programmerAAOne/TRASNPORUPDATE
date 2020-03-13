@@ -1,15 +1,13 @@
 import React, { Component } from 'react'
-import '../styles/stylesNav.css';
-import '../../App.css'
-import Navbar from '../Navbar/Navbar';
+import '../styles/Home.css'
 import { todos } from '../../todos.json';
-import TodoForm from '../TodoForm/Todoform'
+
 console.log(todos)
 class Home extends Component {
     render() {
         return (
             <div className="App">
-                <Navbar />
+             
                 <div className="container ">
                              <h1 className="titulo">Bienvenido Jesus a GTE Transport</h1>
                     <div className="row secondary mt-4 justify-content-around align-items-center ">
@@ -31,8 +29,7 @@ class Home extends Component {
                         </div>
                     </div>
                     <br></br>
-                    <br></br>
-                    <br></br>
+                   
                 </div>
 
 

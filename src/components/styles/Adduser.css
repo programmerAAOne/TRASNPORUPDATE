@@ -1,0 +1,92 @@
+.caja{
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    height: 625px;
+    margin-top: 200px;
+    -webkit-box-shadow: -4px 2px 28px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -4px 2px 28px -5px rgba(0,0,0,0.75);
+    box-shadow: -4px 2px 28px -5px rgba(0,0,0,0.75);
+}
+.item{
+    height: 70px;
+    width: 70px;
+    border-radius: 70px;
+    align-self: center;
+   margin-left: 10px;
+}
+.lista{
+    
+
+  height: 100%;
+
+}
+.registro{
+  
+    height: 100%;
+    margin-top: 0;
+    padding: 0;
+}
+.listcard{
+ width: 100%;
+    display: flex;
+    align-items: center;
+
+    height: 80px;
+    margin: 0;
+    padding: 0;
+}
+.name
+{
+ align-self: center;
+ margin-left: 10px;
+ font-weight:lighter;
+ color: #000000;
+
+}
+.buscar{
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.botones{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    height:90px;
+}
+.boton{
+    height:50px;
+}
+.foto{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    height:150px;
+
+}
+.item-profile{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+
+}
+.name-profile{
+    font-weight: normal;
+    margin-left: 20px;
+}
+.formulario{
+  
+    margin:10px;
+}
+
+@media (max-width: 500px) {
+    .registro{
+        height:900px;
+        background-color: seagreen;
+    }
+  }
+  @media screen and (max-width: 768px) {
+   .caja{
+       height: 650px;
+   }
+  }

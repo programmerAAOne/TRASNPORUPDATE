@@ -1,0 +1,15 @@
+.principal{
+    color: yellow;
+}
+.lista{
+    background-color: rebeccapurple;
+    height: 100%;
+}
+.registro{
+    background-color: red;
+    height:100%;
+}
+img .item{
+    height: 90;
+    width: 90;
+}

@@ -1,0 +1,37 @@
+.rgc-box
+{
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    height: 900px;
+    margin-top:100px;
+
+    -webkit-box-shadow: -4px 2px 28px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -4px 2px 28px -5px rgba(0,0,0,0.75);
+    box-shadow: -4px 2px 28px -5px rgba(0,0,0,0.75);
+}
+.rcg-head{
+    height: 800px;
+    /* background-color: blue; */
+}
+.rgc-c-image{
+    /* background-color: yellow; */
+    height: 150px;
+   
+}
+.rgc-title
+{
+   /* background-color: red; */
+   color: #757575;
+   height: 150px;
+}
+.rgc-p-image{
+     
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+}
+.form-rgc
+{
+    /* background-color: gray; */
+    margin: 20px;
+}
